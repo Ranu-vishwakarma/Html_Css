@@ -1,0 +1,39 @@
+.contaner{
+    background-color: rgb(197, 197, 245);
+    min-height: 100vh;
+    border: 10px solid #1d1e4c;
+}
+.box{
+    max-width:1000px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+img{
+    height: 340px;
+    width: 330px;
+    border-radius:500px;
+}
+.about_top h1{
+    font-size:58px;
+    position: absolute;
+    left: 740px;
+    top: 340px;
+}
+.about_top h2{
+    font-size: 35px;
+    position: absolute;
+    left: 1110px;
+    top: 410px;
+}
+.about_foot h3{
+   font-size: 62px;
+   font-weight: 130;
+   margin-top: 23px;
+   margin-bottom: 34px;
+}
+p{
+    font-size:25px;
+}
+h2{
+    font-size:30px;
+}
