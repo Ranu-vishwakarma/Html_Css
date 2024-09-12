@@ -1,0 +1,74 @@
+ .box{
+    height:98vh;
+    width: 98vw;
+ }
+ .nevbar{
+    height: 100px;
+    width: 98vw;
+    background-color:black;
+    position:absolute;
+    top: 10px;
+} 
+ h2{
+    text-align: right;
+    word-spacing: 15px;
+    position: relative;
+    bottom: 20px;
+}
+ a{
+    color: white;
+    justify-content: center;
+    padding: 6px;
+    text-decoration: none;
+}
+ .co h1{
+    color: white;
+    padding-left: 40px;
+    position: relative;
+    top: 30px;
+} 
+.content{
+    height:36em;
+    width:98vw;
+    word-spacing: 6px;
+    background-color:rgb(165, 12, 12) ;
+    text-align: center;
+    padding-top: 100px;
+    position:relative;
+    top: 99px;
+}
+b{
+    color: aliceblue;
+    font-size: 60px;
+    word-spacing: 12px;
+    letter-spacing:2px ;
+}
+h3{
+    color: aliceblue;
+    font-size: 40px;
+}
+button{
+    background-color:rgb(165, 12, 12);
+    font-size: 25px;
+    border-color: azure;
+    width: 180px;
+    height: 45px;
+}
+button:hover{
+    background-color:whitesmoke ;
+}
+#b1{
+    color: aliceblue;
+}
+#b1:hover{
+    color: black;
+}
+#b2{
+    color: aliceblue;
+}
+#b2:hover{
+    color: black;
+}
+
+
+
